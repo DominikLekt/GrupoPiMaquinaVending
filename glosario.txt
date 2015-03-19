@@ -1,0 +1,21 @@
+
+Glosario de términos relacionados con las máquinas de vending:
+
+Billetero: dispositivo reconocedor de billetes que incluyen algunas máquinas.
+
+Mecanismo de la moneda: dispositivo reconocedor de monedas.
+
+Display: pantalla con la que la máquina se comunica con el usuario.
+
+Canal de venta: cada uno de los diferentes productos ofrecidos por la máquina. Una máquina capaz de vender 10 productos distintos tiene 10 canales de venta.
+
+Capacidad de la máquina: cantidad total de productos que la máquina puede alojar.
+
+Cubículo de salida: espacio accesible por el cliente donde la máquina deja el producto.
+
+Brazo de recogida: dispositivo mecánico con el que algunas máquinas acceden al producto y lo deposita en el cubículo de salida.
+
+Frontal de la máquina: parte delantera de la máquina.
+
+Entrega del producto: el resultado de depositar el producto elegido por el cliente en el cubículo de salida.
+

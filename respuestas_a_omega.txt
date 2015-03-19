@@ -6,7 +6,9 @@ Tampoco acepta billetes o tarjetas de crédito.
 
 - ¿Qué pasaría si la máquina se queda sin cambio?
 
-La máquina sabrá en todo momento qué cantidad de monedas tiene almacenadas y de qué tipo. Si un cliente introduce una moneda y escoge un producto tal que no es posible el cambio, la máquina anunciará por pantalla que no es posible el cambio y preguntará al cliente si quiere proseguir. Si el cliente pulsa de nuevo la tecla del mismo refresco, la máquina expenderá el refresco y no devolverá ningún cambio. Por el contrario, si el cliente pulsa el botón para recuperar el dinero introducido, lo podrá recuperar sin ningún problema. 
+La máquina sabrá en todo momento qué cantidad de monedas tiene almacenadas y de qué tipo. Cuando la máquina se queda sin cambio, envía un mensaje SMS a la empresa para que ésta mande a un técnico. 
+
+Si un cliente introduce una moneda y escoge un producto tal que no es posible el cambio, la máquina anunciará por pantalla que no es posible el cambio y preguntará al cliente si quiere proseguir. Si el cliente pulsa de nuevo la tecla del mismo refresco, la máquina expenderá el refresco y no devolverá ningún cambio. Por el contrario, si el cliente pulsa el botón para recuperar el dinero introducido, lo podrá recuperar sin ningún problema. 
 
 - Si el cliente inserta el dinero y se equivoca de número o no hay disponibilidad de ese producto, ¿qué haría la máquina?
 

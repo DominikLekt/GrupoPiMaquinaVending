@@ -1,7 +1,18 @@
-Participantes:
+﻿Participantes:
 	 Ismael García Marlowe, Alejo García Galan, Dominik Lektarski.
+
 Descripción:
-	La máquina de vending expenderá refrescos fríos de 9 tipos diferentes, que se elegiran mediante un teclado. Acceptará monedas desde 5 centimos hasta 2 euros.  El cliente podra consulatar los precios de los productos y su disponiblidad presionando el botón corresponiente a cada uno de ellos . Una vez metida la cantidad necesaria, el cliente puede presionar la tecla correspondiente a su elección y la máquina le devolvera el cambio y su producto. La máquina dispone de un botón, que pone en marcha la devolución del importe hasta ahora insertado. 
-	El software gestionará la temperatura del frigorífico, con el fin de optimizar el gasto de energía y mantener fríos los productos. El software apagará el frigorífico al alcanzar la temperatura de 5 grados y lo volvera encender al superar los 7 . En caso de error o averia aparecerá un mensaje por pantalla indicandolo.
-	La máquina dispondra de un censor de temperatura exterior. Al superarse los 30 grados los precios aumentaran 30 centimos.
-	Dentro de la maquina habra un teclado, que nos permitra programar los precios de la máquina.
+
+La máquina de vending dispondrá de nueve canales de venta. Los productos se elegirán a través de una botonera. Aceptará monedas desde 5 céntimos hasta 2 euros.  El cliente podrá consultar los precios de los productos y su disponiblidad presionando el botón corresponiente a cada uno de ellos. Una vez introducida la cantidad necesaria, el cliente puede presionar el botón correspondiente a su elección y la máquina le devolvera el cambio y su producto. La máquina dispone de un botón adicional que pone en marcha la devolución del importe hasta ahora insertado. 
+
+La máquina incorpora una tarjeta SIM. En caso de quedarse sin cambio o sin productos en alguno de los canales, avisará inmediatamente a la empresa para que ésta envíe a un técnico. Además, la máquina enviará un SMS cada 24 horas informando del estado actual de la máquina, de la cantidad de productos disponibles, y de la cantidad de cambio almacenada.
+
+El software gestionará la temperatura del frigorífico, con el fin de optimizar el gasto de energía y mantener fríos los productos. El software apagará el frigorífico al alcanzar la temperatura de 5 grados y lo volverá a encender al superar los 7. En caso de error o avería aparecerá un mensaje en el display indicándolo.
+
+La máquina dispondrá de un sensor de temperatura exterior. Al superarse los 30 grados los precios aumentarán 30 céntimos. Los precios volverán a su cantidad inicial cuando la temperatura se sitúe por debajo de los 30 grados.
+
+La máquina también contará con sensores lumínicos para aumentar, disminuir o apagar las luces exteriores. En condiciones de luz abundante, la máquina no necesitará encender ninguna luz ni iluminar el display. En condiciones de baja iluminación, la máquina usará las luces para ser más visible. 
+
+Para hacer la máquina accesible a personas con discapacidad visual o auditiva, la máquina contará con la siguiente funcionalidad: si el botón de un canal determinado es presionado dos veces seguidas, la máquina comunicará mediante un sintetizador de voz el nombre del producto y el precio. 
+
+Dentro de la máquina, el técnico podrá usar, tras introducir una contraseña, un pequeño terminal con un teclado y un display LED de tamaño reducido para configurar los precios de la máquina y otras opciones como la temperatura del frigorífico, distintas estrategias de ahorro de energía (cuándo el frigorífico se apaga, cuándo vuelve a encenderse, gasto de energía nocturno...), la iluminación externa, el brillo del display externo, las condiciones bajo las que la máquina envía un aviso a la empresa (número de latas mínimo por canal, cambio disponible...), la contraseña del terminal, etc.
