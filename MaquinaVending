@@ -3,6 +3,7 @@
 
 Descripción:
 
+
 La máquina de vending dispondrá de nueve canales de venta. Los productos se elegirán a través de una botonera. Aceptará monedas desde 5 céntimos hasta 2 euros.  El cliente podrá consultar los precios de los productos y su disponiblidad presionando el botón corresponiente a cada uno de ellos. Una vez introducida la cantidad necesaria, el cliente puede presionar el botón correspondiente a su elección y la máquina le devolvera el cambio y su producto. La máquina dispone de un botón adicional que pone en marcha la devolución del importe hasta ahora insertado. 
 
 La máquina incorpora una tarjeta SIM. En caso de quedarse sin cambio o sin productos en alguno de los canales, avisará inmediatamente a la empresa para que ésta envíe a un técnico. Además, la máquina enviará un SMS cada 24 horas informando del estado actual de la máquina, de la cantidad de productos disponibles, y de la cantidad de cambio almacenada.
