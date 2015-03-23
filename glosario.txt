@@ -1,21 +1,25 @@
 
-Glosario de t�rminos relacionados con las m�quinas de vending:
+Glosario de términos relacionados con las máquinas de vending:
 
-Billetero: dispositivo reconocedor de billetes que incluyen algunas m�quinas.
+Billetero: dispositivo reconocedor de billetes que incluyen algunas máquinas.
 
 Mecanismo de la moneda: dispositivo reconocedor de monedas.
 
-Display: pantalla con la que la m�quina se comunica con el usuario.
+Display: pantalla con la que la máquina se comunica con el usuario.
 
-Canal de venta: cada uno de los diferentes productos ofrecidos por la m�quina. Una m�quina capaz de vender 10 productos distintos tiene 10 canales de venta.
+Canal de venta: cada uno de los diferentes productos ofrecidos por la máquina. Una máquina capaz de vender 10 productos distintos tiene 10 canales de venta.
 
-Capacidad de la m�quina: cantidad total de productos que la m�quina puede alojar.
+Capacidad de la máquina: cantidad total de productos que la máquina puede alojar.
 
-Cub�culo de salida: espacio accesible por el cliente donde la m�quina deja el producto.
+Cubículo de salida: espacio accesible por el cliente donde la máquina deja el producto.
 
-Brazo de recogida: dispositivo mec�nico con el que algunas m�quinas acceden al producto y lo deposita en el cub�culo de salida.
+Brazo de recogida: dispositivo mecánico con el que algunas máquinas acceden al producto y lo deposita en el cubículo de salida.
 
-Frontal de la m�quina: parte delantera de la m�quina.
+Frontal de la máquina: parte delantera de la máquina.
 
-Entrega del producto: el resultado de depositar el producto elegido por el cliente en el cub�culo de salida.
+Entrega del producto: el resultado de depositar el producto elegido por el cliente en el cubículo de salida.
+
+Lata de refresco: el estándar de latas de aluminio con capacidad para 33 cl.
+
+
 
