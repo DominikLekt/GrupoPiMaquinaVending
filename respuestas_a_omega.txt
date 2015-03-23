@@ -37,7 +37,8 @@ Si el teclado no funcionara habría que reemplazarlo por otro. No tenemos planea
 
 - ¿Qué medios tiene la máquina para darle al cliente el producto que ha seleccionado?
 
-Esto dependerá del funcionamiento del hardware de la máquina. Se tratará de una máquina convencional sin escaparate. La lata de refresco caerá en un repositorio accesible al cliente.
+Esto dependerá del funcionamiento del hardware de la máquina. Se tratará de una máquina convencional sin 
+escaparate. La lata de refresco caerá en un repositorio accesible al cliente.
 
 - Si la máquina aceptara billetes, ¿el cambio se podría dar en billetes?
 
